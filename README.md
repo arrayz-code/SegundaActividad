@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio!
 
-Este repositorio contiene el código del backend desarrollado por Angel Arraiz. El proyecto está estructurado en dos carpetas principales: `project-front` y `project-back`. La carpeta `project-front` contiene el frontend desarrollado con React Vite, mientras que la carpeta `project-back` contiene el backend y la lógica de base de datos.
+Este repositorio contiene el código de la actividad por Angel Arraiz. El proyecto está estructurado en dos carpetas principales: `project-front` y `project-back`. La carpeta `project-front` contiene el frontend desarrollado con React Vite, mientras que la carpeta `project-back` contiene el backend y la lógica de base de datos.
 
 ## Configuración del Entorno
 
